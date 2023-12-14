@@ -1,4 +1,4 @@
-## Portfolio voor code
+## Portfolio
 
 - CRUDforDB.cs Een bestand voor Unity waarmee je met C# en SQL een SQLite database maakt, data update, data insert en data leest.
 - DiscordAPI.node.ts Een node voor N8N dat alle berichten en unique gebruikers (zonder bots) uit een discord kanaal vertoont.
